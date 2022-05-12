@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QR Code Version Finale", "QR Code Version Finale\QR Code Version Finale.csproj", "{1C652110-7940-4D05-8070-5DBB6D97E9A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnitaire", "TestUnitaire\TestUnitaire.csproj", "{A447EA7E-96B1-4726-A8CA-9DC818E447A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C652110-7940-4D05-8070-5DBB6D97E9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C652110-7940-4D05-8070-5DBB6D97E9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C652110-7940-4D05-8070-5DBB6D97E9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C652110-7940-4D05-8070-5DBB6D97E9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A447EA7E-96B1-4726-A8CA-9DC818E447A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A447EA7E-96B1-4726-A8CA-9DC818E447A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A447EA7E-96B1-4726-A8CA-9DC818E447A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A447EA7E-96B1-4726-A8CA-9DC818E447A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D55F8F9B-FD8F-4B77-8EB0-CE74F0123301}
+	EndGlobalSection
+EndGlobal
